@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-fuzqmue=bho%r3_y7k6m72b-$9a#vrkn(z*ner=-a2%u@-ao3t'
+SECRET_KEY = #Write your secret key here 
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -133,3 +133,4 @@ EMAIL_HOST='smtp.gmail.com'
 EMAIL_PORT=587
 EMAIL_HOST_USER='Example@gmail.com' #Enter your email from which you want to send emails.
 EMAIL_HOST_PASSWORD='yourAppPassword' #write your app password that you have generated from your email.
+
